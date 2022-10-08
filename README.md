@@ -1,5 +1,6 @@
 
-# console.log('HI DEVELOPERS 👩‍💻')![developer](https://user-images.githubusercontent.com/77763655/194678146-58358eb7-b1ba-4dda-ac0d-95383aaa7b7a.png)
+# console.log('HI DEVELOPERS 👩‍💻')![web-development](https://user-images.githubusercontent.com/77763655/194678328-1065512a-ecac-4cb9-9651-d82b0a692278.png)
+
 
 ```javascript
 const Gaby = {
