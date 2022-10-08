@@ -5,7 +5,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/77763655/194678982-e97df53e-4874-4881-92d8-34ed955afb72.png" width="150px">
 
 ```javascript
-const Gaby = {
+const gaby = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React.js , Node.js , Firebase , Styled-Components, Jest, Axios],
