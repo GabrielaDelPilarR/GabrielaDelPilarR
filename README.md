@@ -1,5 +1,5 @@
 
-# console.log('HI DEVELOPERS 👩‍💻')![web-development](https://user-images.githubusercontent.com/77763655/194678328-1065512a-ecac-4cb9-9651-d82b0a692278.png)
+# console.log('HI DEVELOPERS 👩‍💻')
 
 
 ```javascript
@@ -9,4 +9,7 @@ const Gaby = {
   tools: [React.js , Node.js , Firebase , Styled-Components, Jest, Axios],
 }
 ```
+
+#### Contact me gabrieladelpilarrojas21@gmail.com![web-development](https://user-images.githubusercontent.com/77763655/194678438-cc2ca67d-830e-4ded-aa37-b2c2bd2d3911.png)
+
 
