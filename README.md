@@ -11,6 +11,6 @@ const gaby = {
   tools: [React.js , Node.js , Firebase , Styled-Components, Jest, Axios],
 }
 ```
-<p><em>Frontend Developer Junior <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Contact me gabrieladelpilarrojas21@gmail.com
+<p><em>Frontend Developer Junior <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Contact me <a>gabrieladelpilarrojas21@gmail.com</a>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
